@@ -15,7 +15,7 @@
 - https://support.google.com/googleplay/android-developer/answer/10144311?hl=ko
 
 ## 정식 방침 전환 전 남은 항목
-- [ ] 운영자가 공개할 문의 이메일 확정
+- [x] 운영자가 공개할 문의 이메일 확정: devnest25@gmail.com (2026-10-15)
 - [ ] 출시 대상 연령·국가 확정 및 아동 관련 정책 적용 여부 검토
 - [ ] 실제 배포 AAB의 SDK 버전·미디에이션·백업 설정 및 수집 항목 대조
 - [ ] AdMob 동의 메시지 설정 및 실기기 동의/선택 변경 확인
