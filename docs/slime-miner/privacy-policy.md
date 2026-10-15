@@ -4,7 +4,7 @@ title: Slime Miner 개인정보처리방침
 ---
 # Slime Miner 개인정보처리방침
 
-> **검토용 초안 — 문의 이메일 및 출시 설정 확정 전에는 Play Console 제출용으로 사용하지 마세요.**
+> **검토용 초안 — 출시 설정 최종 확인 전에는 Play Console 제출용으로 사용하지 마세요.**
 
 작성일: 2026년 10월 15일 · 시행일: 정식 방침 확정 시 기재
 
@@ -60,7 +60,7 @@ Google 광고 SDK는 전송 중 데이터를 TLS로 암호화한다고 안내합
 
 - 운영자: devnest
 - 개인정보 문의 담당: devnest
-- **문의 이메일: 운영자가 제공한 주소로 확정 예정**
+- 문의 이메일: [devnest25@gmail.com](mailto:devnest25@gmail.com)
 
 ## 8. 방침의 변경
 
