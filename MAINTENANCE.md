@@ -1,3 +1,36 @@
+# 2026-10-19 현재 방침 갱신·영문 제공
+
+이번 갱신은 사용자 요청에 따라 현재 구현과 불일치하던 공개 초안을 교체한다. 시행일/수정일2026-10-19, 운영자 DevNest, 기존 문의 이메일 유지. 한국어 URL 유지·영문 privacy-policy-en.html 추가·언어별 html lang·상호 링크·인덱스 보완. 별도 HTML 본문 사본은 만들지 않는다.
+
+## 확인 근거
+- 게임 최신 main의 광고105/결제97/클라우드 구현 및 기존 사용자 실기기 확인.
+- scripts/save/cloud_save_controller.gd: 선택적 연결·수동 업로드/복원·로컬/클라우드 삭제 구분.
+- tools/pgs_plugin/plugin/src/main/java/com/jacobibanez/plugin/android/godotplaygameservices/GodotAndroidPlugin.kt: currentPlayer.playerId 실행 중 계정 확인, Saved Games bytes/metadata, SDK 재개 계정 검증.
+- scripts/billing/permanent_purchase_service.gd 및 purchase_journal.gd: 상품/토큰/서명 거래 원장·보유권 캐시/승인·조회, 로컬 저장.
+- scripts/ads/admob_adapter.gd 및 ad_diagnostics.gd: AdMob/UMP, 동의 선택·설정 진입, 진단 마스킹. 광고 제거가 SDK 정보 처리 전체 중단을 보장하지 않는 실제 초기화 경로 반영.
+- 사용자2026-10-19 보고: 동의 메시지 등록 후 스토어 앱 정상 작동. 개별 광고 경로·EEA 거부/재선택 전체 검증 성공으로 확대하지 않는다.
+- Google 공식 GMA Next-Gen 데이터 공개, PGS 데이터 공개·게임별 삭제, Play User Data 정책을2026-10-19 확인.
+
+## 반영
+- 검토용 초안/시행일 공란 제거, 제공 중인 게임즈·인앱결제·보상 상태 처리 설명.
+- 로컬/OS 백업/클라우드/Play 거래/문의 자료의 보관·삭제 분리.
+- 데이터 권리·국외 처리·암호화 범위, 한국어/영어 동일 항목 제공.
+- 과거 play-games-planned.md는 역사 문서로 안내하고 최신 방침으로 연결.
+
+## 남은 확인 — 문서 수정만으로 완료 처리하지 않음
+- [ ] Play Console 대상 연령/출시 국가 실제 설정과 Google 아동 관련 SDK 플래그 대조. 아동 미대상/특정 연령 기준을 임의 확정하지 않았다.
+- [ ] 적용 법령에 따른 국외 이전 수령 주체·국가·항목·시점/방법·기간·거부 영향 등 구체 고지 필요 여부와 실제 계약/정보 확인. 알려지지 않은 기간·법적 근거를 만들어 넣지 않았다.
+- [ ] Google이 관리하는 데이터의 실제 삭제 반영 결과/기간. 공식 사용자 절차만 안내하며 확인하지 않은 SLA를 약속하지 않았다.
+- [ ] Play Console 데이터 보안 응답과 현재 AdMob/PGS/Billing의 실제 처리 범위 대조.
+- [ ] 앱 설정의 개인정보처리방침 링크 존재·접근, EEA 동의/거부/재선택 검증.
+- [ ] Pages 배포 완료와 한·영 공개 URL HTTP/본문 확인. 배포 결과는 실행 후 추가 기록한다.
+
+게임 코드·SDK·Console·AdMob 설정·스토어 배포는 변경하지 않는다. 문서만으로 모든 지역 법규 준수나 Play 심사 통과를 보증하지 않는다. 한·영의 정보 범위와 날짜를 함께 갱신한다.
+
+---
+
+## 과거 관리 이력 (아래는 당시 상태)
+
 # 정책 문서 관리
 
 ## 원본
