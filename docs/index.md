@@ -1,9 +1,14 @@
 ---
 layout: default
-title: devnest 정책 문서
+title: DevNest 정책 문서 / Policies
+lang: ko
 ---
-# devnest 정책 문서
+# DevNest 정책 문서 / Policies
 
-- [Slime Miner 개인정보처리방침](slime-miner/privacy-policy.html)
+## Slime Miner
 
-현재 개인정보처리방침은 검토용 초안입니다. 최종 연락처와 출시 설정 확인 후 정식 방침으로 전환합니다.
+- [개인정보처리방침 — 한국어](slime-miner/privacy-policy.html)
+- [Privacy Policy — English](slime-miner/privacy-policy-en.html)
+
+운영자 / Operator: DevNest  
+문의 / Contact: [devnest25@gmail.com](mailto:devnest25@gmail.com)
