@@ -1,3 +1,7 @@
+# Slime Miner 업데이트 버전 정보 (2026-10-21)
+
+기존 공개 Pages에 `docs/slime-miner/updates/latest.json`을 추가했다. 운영자가 공개 설치 가능하다고 확인한 code10 / 기존 name1.1.0을 게시한다. 앱·스토어 버전은 변경하지 않는다. 갱신 절차는 [업데이트 정보 관리](docs/slime-miner/updates/README.md)를 따른다. 공개 HTTPS 응답 확인은 배포 후 별도 기록한다.
+
 # 2026-10-19 현재 방침 갱신·영문 제공
 
 이번 갱신은 사용자 요청에 따라 현재 구현과 불일치하던 공개 초안을 교체한다. 시행일/수정일2026-10-19, 운영자 DevNest, 기존 문의 이메일 유지. 한국어 URL 유지·영문 privacy-policy-en.html 추가·언어별 html lang·상호 링크·인덱스 보완. 별도 HTML 본문 사본은 만들지 않는다.
