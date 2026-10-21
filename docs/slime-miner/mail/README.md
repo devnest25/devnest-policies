@@ -9,7 +9,7 @@ Schema 1: `schema_version: 1`, `items: []`. Each item has `id`, `starts_at`, `ex
 
 IDs: 1–64 ASCII letters/digits/underscore/hyphen, globally unique, permanently never reused. Changing a published reward or period requires a NEW ID. Retain a publication history in Git and check it before choosing IDs. Removing a mail never removes local claim history.
 
-Currency is `minerals` or `ether` only. Amount is a positive canonical decimal integer STRING (no leading zero, sign, spaces, decimal point or exponent), max96 digits. The existing game LargeNumber normalized coefficient and full decimal display must roundtrip without loss; unrepresentable amounts reject the entire feed. Do not pass full amounts through JSON numbers, int or float. Test amounts with the PRODUCT parser before publishing.
+Currency is `minerals` or `ether` only. Amount is a positive canonical decimal integer STRING (no leading zero, sign, spaces, decimal point or exponent), max36 digits (keeps the full reward notification usable together with the mailbox on small screens). The existing game LargeNumber normalized coefficient and full decimal display must roundtrip without loss; unrepresentable amounts reject the entire feed. Do not pass full amounts through JSON numbers, int or float. Test amounts with the PRODUCT parser before publishing.
 
 Max100 items, 262144 UTF-8 bytes, title1–160 characters and body1–12000, nonblank. Body is plain text; no remote markup is executed. The entire response is rejected for any invalid entry, duplicate ID, invalid schema/period/currency/amount/language or exceeded bound.
 
