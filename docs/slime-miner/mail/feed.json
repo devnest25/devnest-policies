@@ -1,1 +1,24 @@
-{"schema_version":1,"items":[]}
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "id": "mail-20261022-test-thanks",
+      "starts_at": "2026-10-21T15:00:00Z",
+      "expires_at": "2026-10-29T15:00:00Z",
+      "content": {
+        "ko": {
+          "title": "테스트 참여 감사 선물",
+          "body": "슬라임 마이너 테스트에 참여해 주셔서 감사합니다. 감사의 마음을 담아 에테르 100개를 보내드립니다. 즐거운 채굴 되세요!"
+        },
+        "en": {
+          "title": "Thank You for Testing",
+          "body": "Thank you for taking part in the Slime Miner test. Please accept 100 Ether as a token of our appreciation. Happy mining!"
+        }
+      },
+      "reward": {
+        "currency": "ether",
+        "amount": "100"
+      }
+    }
+  ]
+}
