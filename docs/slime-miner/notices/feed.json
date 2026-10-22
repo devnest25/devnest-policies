@@ -24,6 +24,23 @@
           "body": "안녕하세요, DevNest입니다.\n이번 업데이트의 주요 변경사항을 안내드립니다.\n\n■ 업데이트 안내\n새로운 버전을 확인하고 스토어로 이동할 수 있는 기능을 추가했습니다.\n\n■ 공지사항·패치노트\n게임 내에서 주요 소식과 업데이트 내용을 확인할 수 있습니다.\n\n■ 우편함\n이벤트 보상을 받을 수 있는 우편함을 추가했습니다. 보상이 도착하면 우편함에서 직접 수령해 주세요.\n\n■ 쿠폰\n쿠폰 코드를 입력하고 보상을 받을 수 있는 기능을 추가했습니다. 이벤트 쿠폰은 추후 공지를 통해 안내드리겠습니다.\n\n■ 보상 알림 개선\n일일·주간 퀘스트와 업적 보상 수령 내역을 버프창에서 확인할 수 있도록 개선했습니다.\n업적 보상을 받을 때 목록 위치가 바뀌는 현상을 개선했습니다.\n\n■ 안정성 개선\n저장 데이터가 손상된 경우의 보호 처리를 보완했습니다.\n알림 표시 중 열린 창의 위치가 움직이는 현상을 개선했습니다.\n\n앞으로도 더 편리하고 즐거운 플레이를 위해 꾸준히 개선하겠습니다.\n\n감사합니다.\nDevNest"
         }
       }
+    },
+    {
+      "id": "patch-20261023-1-3-0",
+      "kind": "patch",
+      "published_on": "2026-10-23",
+      "version_code": 12,
+      "version_name": "1.3.0",
+      "content": {
+        "ko": {
+          "title": "[업데이트] 슬라임 마이너 1.3.0 패치노트",
+          "body": "[던전]\n• 깊은 광산과 비밀의 숲을 추가했습니다.\n• 깊은 광산은 현재 단계에 도전하는 돌파 방식으로 진행하며, 돌파가 어려울 때는 소탕을 이용할 수 있습니다.\n• 비밀의 숲은 현재 원정력에 맞춰 도전 단계가 자동으로 결정됩니다.\n• 던전 상세 안내와 비밀의 숲 배경·이동 연출을 개선했습니다.\n\n[퀘스트 및 편의성]\n• 일일·주간·업적 탭을 한 줄로 정리하고 글자 가독성을 높였습니다.\n• 퀘스트 창 크기를 조정하고 닫기 버튼을 하단에 고정했습니다.\n• 보상 수령 시 창 크기와 업적 스크롤 위치가 유지되도록 개선했습니다.\n• 퀘스트 탭의 보상 알림과 설정 화면, 시작 로딩 안내를 개선했습니다.\n\n[사운드]\n• 슬라임의 채굴 타격음을 더 부드럽고 귀여운 소리로 변경했습니다."
+        },
+        "en": {
+          "title": "[Update] Slime Miner 1.3.0 Patch Notes",
+          "body": "[Dungeons]\n• Added Deep Mine and Secret Forest.\n• Progress through Deep Mine by challenging the current stage, or use Sweep when you need more time to grow stronger.\n• Secret Forest automatically selects a stage based on your current expedition power.\n• Improved dungeon details, Secret Forest backgrounds, and movement animations.\n\n[Quests & Quality of Life]\n• Arranged the Daily, Weekly, and Achievements tabs on a single line and improved text readability.\n• Adjusted the quest window size and fixed the Close button at the bottom.\n• Improved reward claiming to preserve the window size and achievement scroll position.\n• Improved quest reward indicators, the settings screen, and startup loading information.\n\n[Sound]\n• Updated slime mining sounds to be softer and cuter."
+        }
+      }
     }
   ]
 }
