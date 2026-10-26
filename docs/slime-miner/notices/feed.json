@@ -41,6 +41,23 @@
           "body": "[Dungeons]\n• Added Deep Mine and Secret Forest.\n• Progress through Deep Mine by challenging the current stage, or use Sweep when you need more time to grow stronger.\n• Secret Forest automatically selects a stage based on your current expedition power.\n• Improved dungeon details, Secret Forest backgrounds, and movement animations.\n\n[Quests & Quality of Life]\n• Arranged the Daily, Weekly, and Achievements tabs on a single line and improved text readability.\n• Adjusted the quest window size and fixed the Close button at the bottom.\n• Improved reward claiming to preserve the window size and achievement scroll position.\n• Improved quest reward indicators, the settings screen, and startup loading information.\n\n[Sound]\n• Updated slime mining sounds to be softer and cuter."
         }
       }
+    },
+    {
+      "id": "patch-20261026-1-4-5",
+      "kind": "patch",
+      "published_on": "2026-10-26",
+      "version_code": 18,
+      "version_name": "1.4.5",
+      "content": {
+        "ko": {
+          "title": "1.4.5 업데이트 안내",
+          "body": "■ 깊은 광산\n- 도전 단계와 광물을 더 쉽게 확인하도록 상세 화면을 개선했습니다.\n- 입장 전에는 가능한 보상 범위를 표시하고, 실제 광물 등급은 입장 후 공개합니다.\n- 재도전 시 등급 유지 규칙은 기존과 동일합니다.\n\n■ 비밀의 숲\n- 슬라임들이 창 아래쪽까지 넓게 이동하도록 개선했습니다.\n- 짧은 원정의 에테르 보상을 늘렸습니다.\n  · 1시간: 원정 단계 × 2\n  · 4시간: 원정 단계 × 6\n  · 12시간: 원정 단계 × 12\n- 진행 중이거나 완료 후 미수령인 기존 원정은 출발 당시 보상을 유지합니다.\n\n■ 성장·편의성 개선\n- 광산 해금 및 성장 밸런스를 조정했습니다.\n- 슬라임 자동강화의 계산과 구매 적용 속도를 개선했습니다.\n- 미네랄 저장 정확도를 개선했습니다.\n- 시작 시 럭키 광물로 인해 멈추는 문제를 수정했습니다.\n- 로딩·메뉴·유물·광고보상 화면과 안내 아이콘을 개선했습니다."
+        },
+        "en": {
+          "title": "Version 1.4.5 Update",
+          "body": "■ Deep Mine\n- Improved the details screen to highlight the challenge stage and mineral.\n- The possible reward range is shown before entry. Actual mineral rarity is revealed after entry.\n- Rarity retention when retrying remains unchanged.\n\n■ Secret Forest\n- Slimes now roam across a larger area, including the lower part of the window.\n- Increased Ether rewards for shorter expeditions.\n  · 1 hour: Expedition stage × 2\n  · 4 hours: Expedition stage × 6\n  · 12 hours: Expedition stage × 12\n- Ongoing and completed but unclaimed expeditions retain their original rewards.\n\n■ Progression & Quality of Life\n- Adjusted mine unlock and progression balance.\n- Improved slime auto-upgrade calculation and purchase application speed.\n- Improved Mineral balance saving accuracy.\n- Fixed a startup stall caused by a Lucky mineral.\n- Refined loading, menus, relics, ad reward screens and information icons."
+        }
+      }
     }
   ]
 }
