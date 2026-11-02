@@ -58,6 +58,40 @@
           "body": "■ Deep Mine\n- Improved the details screen to highlight the challenge stage and mineral.\n- The possible reward range is shown before entry. Actual mineral rarity is revealed after entry.\n- Rarity retention when retrying remains unchanged.\n\n■ Secret Forest\n- Slimes now roam across a larger area, including the lower part of the window.\n- Increased Ether rewards for shorter expeditions.\n  · 1 hour: Expedition stage × 2\n  · 4 hours: Expedition stage × 6\n  · 12 hours: Expedition stage × 12\n- Ongoing and completed but unclaimed expeditions retain their original rewards.\n\n■ Progression & Quality of Life\n- Adjusted mine unlock and progression balance.\n- Improved slime auto-upgrade calculation and purchase application speed.\n- Improved Mineral balance saving accuracy.\n- Fixed a startup stall caused by a Lucky mineral.\n- Refined loading, menus, relics, ad reward screens and information icons."
         }
       }
+    },
+    {
+      "id": "patch-20261028-1-7-5",
+      "kind": "patch",
+      "published_on": "2026-10-28",
+      "version_code": 30,
+      "version_name": "1.7.5",
+      "content": {
+        "ko": {
+          "title": "1.7.5 업데이트 — 광물계와 새로운 슬라임 스킨",
+          "body": "■ 신규 콘텐츠\n- 무한 단계로 도전할 수 있는 광물계와 탄생석 12종을 추가했습니다.\n- 슬라임 스킨 11종을 추가했습니다.\n- 슬라임·광산 승천 일일·주간 퀘스트와 종류별 최대 100회 승천 업적을 추가했습니다.\n- 비밀의 숲 원정 시간을 광고 시청으로 1시간 단축할 수 있습니다. 재사용 대기시간은 1시간입니다.\n\n■ 편의성 개선\n- 스킨 상점과 누적 공격력 배율 표시를 개선했습니다.\n- ‘해류’ 스킨의 이름을 ‘바다’로 변경했습니다. 기존 보유·장착 정보는 유지됩니다.\n- 퀘스트에서 수령 가능한 보상을 우선 표시하고, 일일·주간 추가 보상 항목을 정리했습니다.\n- 깊은광산 전투 배경과 보상창을 개선하고 같은 단계 재소탕을 추가했습니다.\n- 광산 선택, 상단바, 설정 메뉴, 유물 정보와 등급별 효과 미리보기를 개선했습니다.\n\n■ 밸런스 및 오류 수정\n- 일부 유물과 특수 슬라임의 효과 및 성장 방식을 조정했습니다.\n- 광산 승천 시 원소계 1단계부터 시작하고 광물계를 다시 해금하도록 정리했습니다.\n- 강타 슬라임의 현재 체력 비례 추가 피해에 유물·약화 배율이 적용되던 문제를 수정했습니다.\n- 광고 연속 요청과 자동강화 멈춤 현상을 보완했습니다.\n- 유물 광고 후 앱으로 돌아왔을 때 보상창이 표시되지 않는 문제를 수정했습니다."
+        },
+        "en": {
+          "title": "Update 1.7.5 — Mineral Realm and New Slime Skins",
+          "body": "■ New Content\n- Added the Mineral Realm with endless stage progression and 12 birthstones.\n- Added 11 slime skins.\n- Added daily and weekly ascension quests, plus separate achievements for up to 100 slime and mine ascensions.\n- Watch an ad to shorten a Secret Forest expedition by 1 hour, with a 1-hour cooldown.\n\n■ Usability Improvements\n- Improved the skin shop and total attack multiplier display.\n- Renamed the Ocean Current skin to Ocean. Ownership and equipped skins are preserved.\n- Claimable quest rewards now appear first, and daily and weekly bonus reward entries have been simplified.\n- Improved Deep Mine battle backgrounds and reward windows, and added repeat sweeping for the same stage.\n- Improved mine selection, the top bar, settings, relic information, and rarity effect previews.\n\n■ Balance and Fixes\n- Adjusted the effects and progression of selected relics and special slimes.\n- Mine ascension now restarts at Element Realm stage 1 and requires unlocking the Mineral Realm again.\n- Fixed relic and weakening multipliers incorrectly affecting Heavy Slime’s current-HP-based bonus damage.\n- Improved repeated ad request handling and addressed auto-upgrade stalls.\n- Fixed missing relic reward windows after returning to the app from an ad."
+        }
+      }
+    },
+    {
+      "id": "patch-20261102-1-8-1",
+      "kind": "patch",
+      "published_on": "2026-11-02",
+      "version_code": 32,
+      "version_name": "1.8.1",
+      "content": {
+        "ko": {
+          "title": "1.8.1 업데이트 — 채굴 보상과 랭킹·광산 선택 개선",
+          "body": "■ 채굴 보상 및 밸런스\n- 광고·오프라인 미네랄 보상이 실제 채굴 수익을 기준으로 계산되도록 개선했습니다.\n- 계산 기준에서는 럭키 수익과 광고 버프 효과를 제외합니다.\n- 스킨 구매 후에도 기존에 측정한 채굴 수익이 유지되도록 수정했습니다.\n- 광산 승천의 미네랄 보상 배율을 승천 1회당 1.2배로 조정했습니다.\n\n■ 게임 내 랭킹\n- 게임을 계속 진행하면서 확인할 수 있는 랭킹 창을 추가했습니다.\n- 랭킹을 최대 100개씩 확인할 수 있습니다.\n- 순위·닉네임·최고 해금 단계를 구분하고 내 기록을 강조했습니다.\n- 최고 해금 단계를 원소계와 광물계로 구분해 표시합니다.\n\n■ 광산 선택 개선\n- 광산 목록을 리스트 방식으로 정리하고 스크롤 성능을 개선했습니다.\n- 채굴 중 탭과 이동 버튼을 여러 번 눌러야 했던 문제를 수정했습니다.\n- 맨 위·맨 아래·현재 광산 이동 아이콘을 추가하고 배치를 정리했습니다.\n- 현재 광산 강조와 행 구분을 개선했습니다.\n- 상세 설명을 닫기 버튼 옆 ⓘ 안내로 모았습니다.\n\n■ 던전 및 퀘스트\n- 소탕 완료 후 다음 도전에 진입하면 등급을 새로 추첨하도록 수정했습니다.\n- 던전 결과 확인 후 상세 창을 유지해 다음 진행을 편하게 했습니다.\n- 퀘스트 보상 수령 처리를 개선하고 수령 완료 항목을 음영으로 구분했습니다."
+        },
+        "en": {
+          "title": "Update 1.8.1 — Mining Rewards, Rankings, and Mine Selection Improvements",
+          "body": "■ Mining Rewards and Balance\n- Ad and offline Mineral rewards now use measured mining income.\n- Lucky income and ad buff effects are excluded from the calculation basis.\n- Fixed measured mining income being reset when purchasing skins.\n- Adjusted the Mineral reward multiplier from mine ascension to 1.2× per ascension.\n\n■ In-Game Rankings\n- Added a ranking window that can be viewed while gameplay continues.\n- View rankings in batches of up to 100 entries.\n- Improved rank, nickname, and highest unlocked stage displays, with your own entry highlighted.\n- Highest unlocked stages now distinguish between the Element Realm and Mineral Realm.\n\n■ Mine Selection\n- Restored a list-based mine selection layout and improved scrolling performance.\n- Fixed tabs and navigation buttons sometimes requiring multiple presses while mining.\n- Added and refined shortcuts to the top, bottom, and current mine.\n- Improved current-mine highlighting and row readability.\n- Moved detailed descriptions into the information button next to Close.\n\n■ Dungeons and Quests\n- The next challenge now receives a new rarity roll when entered after a completed sweep.\n- Dungeon details remain open after confirming results for easier continued play.\n- Improved quest reward claiming and added shading to distinguish claimed rewards."
+        }
+      }
     }
   ]
 }
