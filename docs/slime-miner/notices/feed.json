@@ -109,6 +109,23 @@
           "body": "- Added a dedicated Secret Forest background that remains visible with the Halloween mine skin equipped.\n- Compacted expedition status and reward information to give the slime scene more room.\n- From Deep Mine stage 119, one of 12 birthstones appears in the preparation screen. Its identity persists through retries, cancellation, and restarts and matches the actual challenge. Rarity remains hidden before entry.\n- Refined the Deep Mine preparation layout, mineral name and HP, and removed reward-range previews. Reward payouts and results remain available.\n- Refined the special slime upgrade screen and scrolling. Unlocking a mine now preserves the list position.\n- Mineral Realm Lucky minerals now use all 12 birthstones equally, with matching names, colors, and stage rewards.\n- Adjusted the mine ascension mineral reward multiplier to 1.5× per ascension.\n- Unified refresh buttons in Notices and Patch Notes with Rankings and refined ranking rows and pagination.\n- Improved ad-return tracking, reward save/recovery safeguards, weakening target selection, and mining placement."
         }
       }
+    },
+    {
+      "id": "patch-20261104-1-8-4",
+      "kind": "patch",
+      "published_on": "2026-11-04",
+      "version_code": 35,
+      "version_name": "1.8.4",
+      "content": {
+        "ko": {
+          "title": "1.8.4 업데이트 - 초반 가이드 및 편의성 개선",
+          "body": "• 슬라임 강화·슬라임 추가·광산 이동을 안내하는 초반 가이드를 추가했습니다.\n• 첫 가이드 진행에 필요한 비용을 지원하며, 설정 맨 아래에서 가이드를 다시 볼 수 있습니다.\n• 배경 음악을 개선하고 Puzzle Game과 Misty Bog 중 선택할 수 있도록 했습니다.\n• 설정 메뉴와 크레딧·라이선스 화면을 정리했습니다.\n• 광산 승천을 하나의 확인창으로 통합하고, 사용 가능한 유물 승천 효과를 우선 적용하도록 개선했습니다.\n• 재화의 보유량·비용·부족량·보상 표기를 통일했습니다."
+        },
+        "en": {
+          "title": "1.8.4 Update - Beginner Guide and Quality-of-Life Improvements",
+          "body": "• Added a beginner guide for upgrading slimes, adding slimes, and moving between mines.\n• Provided the currency needed for first-time guide actions. Guides can be revisited at the bottom of Settings.\n• Improved background music and added a choice between Puzzle Game and Misty Bog.\n• Organized Settings, Credits, and Licenses.\n• Simplified mine ascension into a single confirmation screen, prioritizing available relic ascension effects.\n• Standardized currency displays for balances, costs, shortages, and rewards."
+        }
+      }
     }
   ]
 }
