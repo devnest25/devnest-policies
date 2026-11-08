@@ -16,3 +16,5 @@ Play Console 데이터 보안 응답, 출시 국가·연령, 지역별 동의 �
 - 벡터·아이콘 원본: `docs/assets/brand/`
 - [DevNest 소개 사이트](https://devnest-studio.devnest25.chatgpt.site)
 
+
+개발자 웹사이트·app-ads.txt 관리와 Console 인증 절차는 [운영 문서](APP_ADS_OPERATIONS.md)를 따릅니다.
