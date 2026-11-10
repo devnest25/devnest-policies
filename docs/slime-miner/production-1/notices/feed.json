@@ -3,6 +3,23 @@
   "data_generation": "production-1",
   "items": [
     {
+      "id": "prod1-patch-210-code37",
+      "kind": "patch",
+      "published_on": "2026-11-10",
+      "version_code": 37,
+      "version_name": "2.1.0",
+      "content": {
+        "ko": {
+          "title": "2.1.0 업데이트 - 티켓 추가 및 플레이 편의 개선",
+          "body": "■ 티켓 추가\n- 일반광산 채굴로 획득하는 깊은광산 입장권·유물뽑기권을 추가했습니다.\n\n■ 화면 및 편의성 개선\n- 미수령 우편 알림과 우편함 수령 버튼을 개선했습니다.\n- 퀘스트·랭킹·깊은광산·유물 화면을 개선했습니다.\n- 일일·주간 퀘스트에서 수령 가능한 보상을 먼저 표시합니다.\n- 초반 가이드를 제거했습니다.\n- 에테르를 축약 없이 전체 숫자로 표시합니다.\n\n■ 오류 수정 및 안정성 개선\n- 자동강화 계산과 재시도 처리를 보완했습니다.\n- 일부 광고 보상이 정상 지급되지 않던 문제를 수정했습니다.\n- 일부 기존 클라우드 저장을 복원할 수 없던 문제를 수정했습니다."
+        },
+        "en": {
+          "title": "Update 2.1.0 — Tickets and Play Improvements",
+          "body": "■ New Tickets\n- Added Deep Mine and Relic Draw Tickets obtainable through mining in normal mines.\n\n■ Interface and Quality of Life\n- Improved unclaimed mail alerts and mailbox claim buttons.\n- Improved quest, ranking, Deep Mine and relic screens.\n- Daily and weekly quests now show claimable rewards first.\n- Removed the beginner guide.\n- Ether now displays full numbers without abbreviations.\n\n■ Fixes and Stability\n- Improved auto-upgrade calculations and retry handling.\n- Fixed an issue that could prevent some ad rewards from being granted.\n- Fixed an issue preventing some existing cloud saves from being restored."
+        }
+      }
+    },
+    {
       "id": "prod1-launch-200",
       "kind": "notice",
       "published_on": "2026-11-05",
