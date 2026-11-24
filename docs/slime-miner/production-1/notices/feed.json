@@ -3,6 +3,43 @@
   "data_generation": "production-1",
   "items": [
     {
+      "id": "prod1-patch-230-code41",
+      "kind": "patch",
+      "published_on": "2026-11-24",
+      "version_code": 41,
+      "version_name": "2.3.0",
+      "content": {
+        "ko": {
+          "title": "2.3.0 업데이트",
+          "body": "- 유물 뽑기권 9개로 10회 뽑기를 이용할 수 있습니다.\n- 티켓 뽑기를 무료·광고 뽑기와 별도로 이용할 수 있습니다.\n- 슬라임·광산 승천과 유물 뽑기의 저장 안정성을 개선했습니다.\n- 유물 뽑기 화면과 버튼 배치를 개선하고 설정창 크기 계산을 보완했습니다."
+        },
+        "en": {
+          "title": "2.3.0 Update",
+          "body": "- Use 9 Relic Draw Tickets for 10 draws.\n- Ticket draws are now available independently of free and ad draws.\n- Improved save reliability for slime and mine ascensions and relic draws.\n- Updated the relic draw layout and buttons, and refined settings window sizing."
+        },
+        "ja": {
+          "title": "2.3.0 アップデート",
+          "body": "- 遺物抽選券9枚で10回引けるようになりました。\n- チケットでの召喚を、無料・広告の召喚とは別に利用できます。\n- スライム・鉱山の昇天と遺物召喚の保存の安定性を改善しました。\n- 遺物召喚画面とボタン配置を改善し、設定画面のサイズ計算を調整しました。"
+        },
+        "zh_Hant": {
+          "title": "2.3.0 更新",
+          "body": "- 現在可使用9張遺物抽取券進行10連抽。\n- 抽取券可獨立於免費及廣告抽取使用。\n- 改善史萊姆、礦山升天及遺物抽取的存檔穩定性。\n- 調整遺物抽取畫面與按鈕配置，並改善設定視窗的尺寸計算。"
+        },
+        "es": {
+          "title": "Actualización 2.3.0",
+          "body": "- Usa 9 boletos de reliquias para realizar 10 invocaciones.\n- Las invocaciones con boletos ahora son independientes de las gratuitas y las de anuncios.\n- Mejoramos la fiabilidad del guardado al ascender slimes y minas y al invocar reliquias.\n- Actualizamos la pantalla y los botones de invocación, y ajustamos el tamaño de la ventana de configuración."
+        },
+        "pt_BR": {
+          "title": "Atualização 2.3.0",
+          "body": "- Use 9 bilhetes de relíquias para fazer 10 invocações.\n- As invocações com bilhetes agora são independentes das gratuitas e das de anúncios.\n- Melhoramos a confiabilidade do salvamento nas ascensões de slimes e minas e nas invocações de relíquias.\n- Atualizamos a tela e os botões de invocação e ajustamos o tamanho da janela de configurações."
+        },
+        "de": {
+          "title": "Update 2.3.0",
+          "body": "- Nutze 9 Relikt-Tickets für 10 Ziehungen.\n- Ticket-Ziehungen sind jetzt unabhängig von kostenlosen Ziehungen und Werbeziehungen verfügbar.\n- Die Zuverlässigkeit beim Speichern von Schleim- und Minenaufstiegen sowie Relikt-Ziehungen wurde verbessert.\n- Das Layout und die Schaltflächen der Relikt-Ziehung wurden überarbeitet und die Größenberechnung des Einstellungsfensters angepasst."
+        }
+      }
+    },
+    {
       "id": "prod1-patch-220-code38",
       "kind": "patch",
       "published_on": "2026-11-11",
