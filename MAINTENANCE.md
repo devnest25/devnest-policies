@@ -1,3 +1,16 @@
+# Classic RPG 개인정보처리방침 — 2026-11-27
+
+- 사용자 요청으로 Classic RPG 전용 공개 방침을 추가한다. 공개 원본: `docs/classic-rpg/privacy-policy.md`, URL: https://devnest25.github.io/devnest-policies/classic-rpg/privacy-policy.html
+- 패키지 확정: 출시 `com.devnest.classicrpg`, 개발 `com.devnest.classicrpg.dev`. 과거 org 개발본도 적용 범위에 표시한다. 게임 패키지 변경·GPC 생성 완료를 뜻하지 않는다.
+- 근거: Classic RPG code118 클라우드 보고서 및 저장 계약, main의 ClassicCloud.java·cloud_save.gd·native/cloud/build.gradle 직접 확인. Drive appdata 단일 권한, 이메일/permissionId 계정 확인, 요청 메모리 토큰, HTTPS, 수동 저장·복원, 세션 연결 해제/Google 권한 철회/원격 삭제의 차이를 반영했다.
+- 전작의 AdMob·Billing·PGS 랭킹 처리를 복사하지 않는다. 게임의 실제 Google 연동은 콘솔/기기 검증이 남아 있으며 정책 게시를 연동 성공으로 취급하지 않는다.
+- Google Play User Data, Drive appdata, Google Drive 도움말6374270의 숨겨진 앱 데이터 삭제 절차를 확인했다.
+- 공개 페이지와 인덱스·README만 연결하고 Slime Miner 방침 및 운영 JSON은 보존한다. 자체 게임 회원계정 삭제 기능이 있는 것처럼 안내하지 않는다.
+- 출시 전 후속: 실제 배포 AAB/SDK와 Data safety 대조, 앱 내 상시 방침 링크 확인/추가, Drive 실제 삭제 경로·연동 실기기 확인. 출시 국가·대상 연령·사업자 법적 정보 및 국외 이전의 수령자/국가/시점/보유기간 등 추가 고지 필요 사항은 실제 계약/운영 정보로 확정한다. 미확인 내용을 임의 확정하지 않는다.
+- 검증: 문서 구조·앱명/패키지·이메일·상대 링크와 변경 범위 확인. 게임 코드·빌드/실행 검증은 대상 아님. 공개 HTTP/렌더링 확인은 게시 후 수행한다.
+
+---
+
 # 현재 개인정보처리방침 관리 — 2026-11-03
 
 현재 공개 원본은 `docs/slime-miner/privacy-policy.md`와 `privacy-policy-en.md`다. 한·영 시행일/수정일을 2026-11-03으로 맞췄다. 아래 과거 기록은 당시 상태이며, 현재 확인 상태는 이 절을 우선한다. 기존 공개 URL·문의 이메일·Pages 레이아웃은 유지한다.

@@ -1,6 +1,6 @@
 # DevNest policies
 
-Slime Miner의 공개 개인정보처리방침과 DevNest 브랜드·CI 원본을 관리합니다.
+Classic RPG와 Slime Miner의 공개 개인정보처리방침과 DevNest 브랜드·CI 원본을 관리합니다.
 
 - [한국어 공개 페이지](https://devnest25.github.io/devnest-policies/slime-miner/privacy-policy.html)
 - [English privacy policy](https://devnest25.github.io/devnest-policies/slime-miner/privacy-policy-en.html)
@@ -18,3 +18,8 @@ Play Console 데이터 보안 응답, 출시 국가·연령, 지역별 동의 �
 
 
 개발자 웹사이트·app-ads.txt 관리와 Console 인증 절차는 [운영 문서](APP_ADS_OPERATIONS.md)를 따릅니다.
+
+## Classic RPG
+
+- [클래식 RPG 개인정보처리방침](https://devnest25.github.io/devnest-policies/classic-rpg/privacy-policy.html)
+- 원본: `docs/classic-rpg/privacy-policy.md` (2026-11-27). Google Drive 수동 저장·계정 확인·삭제 절차를 안내합니다.

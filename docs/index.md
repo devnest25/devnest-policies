@@ -5,6 +5,10 @@ lang: ko
 ---
 # DevNest 정책 문서 / Policies
 
+## Classic RPG · 클래식 RPG
+
+- [개인정보처리방침 — 한국어](classic-rpg/privacy-policy.html)
+
 ## Slime Miner
 
 - [서비스 이용약관 — 한국어](slime-miner/terms-of-service.html)
