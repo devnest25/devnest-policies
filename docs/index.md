@@ -7,6 +7,8 @@ lang: ko
 
 ## Classic RPG · 클래식 RPG
 
+- [서비스 이용약관 — 한국어](classic-rpg/terms-of-service.html)
+
 - [개인정보처리방침 — 한국어](classic-rpg/privacy-policy.html)
 
 ## Slime Miner

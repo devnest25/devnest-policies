@@ -1,3 +1,14 @@
+# Classic RPG 서비스 이용약관 — 2026-11-27
+
+- GPC 판매자 상태/서비스 약관 등록을 위한 Classic RPG 전용 약관을 게시한다. 운영자 정보는 기존 Slime Miner 약관의 데브네스트·대표자·사업자번호·문의처를 승계한다.
+- 무료 로컬 플레이, 선택적 Google Drive 수동 저장·복원, 연결 해제/데이터 삭제 구분, 재화·지식재산·변경/종료·분쟁·소비자 권리를 반영한다. 전작의 광고/결제/랭킹 제공 문구는 복사하지 않는다.
+- 공개 URL: https://devnest25.github.io/devnest-policies/classic-rpg/terms-of-service.html
+- 판매자 판단 근거: Google 공식17594752의 상업적 운영·향후 수익 의도 기준. 실제 Console 선언은 사용자가 수행하며 정책 게시를 신고 완료로 취급하지 않는다.
+- 앱 내 약관 접근, 실제 판매자 연락처/주소, 출시 국가별 추가 고지와 유료 기능 도입 시 약관 갱신은 후속 확인한다. 문서 게시만으로 게임의 동의 UI를 구현했다고 기록하지 않는다.
+- 문서 범위·개인정보 링크·확정 패키지·날짜 확인. 공개 HTTP/본문 확인은 게시 후 수행하며 기존 Slime Miner 원본·운영 JSON은 보존한다.
+
+---
+
 # Classic RPG 개인정보처리방침 — 2026-11-27
 
 - 사용자 요청으로 Classic RPG 전용 공개 방침을 추가한다. 공개 원본: `docs/classic-rpg/privacy-policy.md`, URL: https://devnest25.github.io/devnest-policies/classic-rpg/privacy-policy.html

@@ -23,3 +23,5 @@ Play Console 데이터 보안 응답, 출시 국가·연령, 지역별 동의 �
 
 - [클래식 RPG 개인정보처리방침](https://devnest25.github.io/devnest-policies/classic-rpg/privacy-policy.html)
 - 원본: `docs/classic-rpg/privacy-policy.md` (2026-11-27). Google Drive 수동 저장·계정 확인·삭제 절차를 안내합니다.
+
+- [클래식 RPG 서비스 이용약관](https://devnest25.github.io/devnest-policies/classic-rpg/terms-of-service.html) — 원본 `docs/classic-rpg/terms-of-service.md`.
